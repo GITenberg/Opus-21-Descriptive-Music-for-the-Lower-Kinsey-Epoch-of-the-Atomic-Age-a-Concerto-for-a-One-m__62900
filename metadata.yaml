@@ -1,6 +1,9 @@
 _repo: Opus-21-Descriptive-Music-for-the-Lower-Kinsey-Epoch-of-the-Atomic-Age-a-Concerto-for-a-One-m__62900
 _version: 0.1.0
 alternative_title: Opus Twenty-one
+covers:
+- cover_type: archival
+  image_path: 62900-h/images/cover.jpg
 creator:
   author:
     agent_name: Wylie, Philip
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41928
     wikipedia: https://en.wikipedia.org/wiki/Philip_Wylie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62900#Opus-21-Descriptive-Music-for-the-Lower-Kinsey-Epoch-of-the-Atomic-Age-a-Concerto-for-a-One-m_
 gutenberg_issued: '2020-08-10'
 gutenberg_type: Text
 identifiers:
