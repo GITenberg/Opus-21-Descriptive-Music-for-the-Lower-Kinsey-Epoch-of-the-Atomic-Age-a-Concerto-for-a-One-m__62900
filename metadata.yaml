@@ -1,0 +1,31 @@
+_repo: Opus-21-Descriptive-Music-for-the-Lower-Kinsey-Epoch-of-the-Atomic-Age-a-Concerto-for-a-One-m__62900
+_version: 0.0.1
+alternative_title: Opus Twenty-one
+creator:
+  author:
+    agent_name: Wylie, Philip
+    alias: Wylie, Philip Gordon
+    birthdate: 1902
+    deathdate: 1971
+    gutenberg_agent_id: '41928'
+    url: http://www.gutenberg.org/2009/agents/41928
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Wylie
+description: ''
+gutenberg_issued: '2020-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Patients -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Philosophy -- Fiction'
+- GITenberg
+title: "Opus 21\r\nDescriptive Music for the Lower Kinsey Epoch of the Atomic Age,\
+  \ a Concerto for a One-man Band, Six Arias for Soap Operas, Fugues, Anthems & Barrelhouse"
+url: http://www.gutenberg.org/ebooks/62900
